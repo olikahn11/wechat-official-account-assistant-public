@@ -4,10 +4,10 @@
 
 安装包将在 [v0.2.1 Release](https://github.com/olikahn11/xiaohuang-wechat-assistant-public/releases/tag/v0.2.1) 中提供：
 
-- Mac：`小黄公众号助手-0.2.1.dmg`
-- Mac 备用压缩包：`小黄公众号助手-0.2.1.zip`
-- Windows：`小黄公众号助手-Windows-0.2.1.exe`
-- Windows 备用压缩包：`小黄公众号助手-Windows-0.2.1.zip`
+- Mac：`Xiaohuang-WeChat-Assistant-macOS-0.2.1.dmg`
+- Mac 备用压缩包：`Xiaohuang-WeChat-Assistant-macOS-0.2.1.zip`
+- Windows：`Xiaohuang-WeChat-Assistant-Windows-0.2.1.exe`
+- Windows 备用压缩包：`Xiaohuang-WeChat-Assistant-Windows-0.2.1.zip`
 - 文件校验：`SHA256SUMS-0.2.1.txt`
 
 ## Mac 安装
