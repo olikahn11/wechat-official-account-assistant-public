@@ -1,5 +1,14 @@
 # 下载与安装
 
+## Windows 0.2.2 便携版
+
+`v0.2.2` 发布后可下载：
+
+- Windows x64 便携版：`小黄公众号助手-Windows-0.2.2.zip`
+- 文件校验：`SHA256SUMS-Windows-0.2.2.txt`
+
+当前构建环境未生成 EXE 安装器；解压 ZIP 后运行「小黄公众号助手.exe」即可使用。
+
 ## 版本 0.2.1
 
 安装包将在 [v0.2.1 Release](https://github.com/olikahn11/xiaohuang-wechat-assistant-public/releases/tag/v0.2.1) 中提供：
@@ -18,8 +27,8 @@
 
 ## Windows 安装
 
-1. 下载 EXE 安装包。
-2. 按安装向导完成安装。
+1. 下载 ZIP 并解压到本机文件夹。
+2. 双击「小黄公众号助手.exe」打开。
 3. 如 SmartScreen 提示未知发布者，请先核对下载地址和 SHA-256，再决定是否继续。
 
 ## 安全提示

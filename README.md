@@ -21,7 +21,7 @@
 
 ## 下载
 
-当前可下载版本：`0.2.1`。Mac 版 `0.2.2` 的功能更新说明见[更新日志](CHANGELOG.md)，安装包发布后会在 Release 页面提供。
+当前可下载版本：`0.2.1`。Windows `0.2.2` 便携版已完成构建，发布后会在 Release 页面提供；功能更新说明见[更新日志](CHANGELOG.md)。
 
 请前往 [GitHub Releases](https://github.com/olikahn11/xiaohuang-wechat-assistant-public/releases/tag/v0.2.1) 下载 Mac 或 Windows 安装包。详细说明见 [DOWNLOAD.md](DOWNLOAD.md)。
 
