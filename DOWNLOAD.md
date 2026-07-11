@@ -4,7 +4,7 @@
 
 `v0.2.2` 发布后可下载：
 
-- Windows x64 便携版：`小黄公众号助手-Windows-0.2.2.zip`
+- Windows x64 便携版：`xiaohuang-wechat-assistant-windows-0.2.2.zip`
 - 文件校验：`SHA256SUMS-Windows-0.2.2.txt`
 
 当前构建环境未生成 EXE 安装器；解压 ZIP 后运行「小黄公众号助手.exe」即可使用。
