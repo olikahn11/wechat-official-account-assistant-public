@@ -18,7 +18,7 @@ Mac 版使用 macOS Keychain，Windows 版使用系统安全存储。凭据不�
 
 ## 为什么 Mac 提示无法验证开发者？
 
-0.2.1 尚未完成 Apple Developer ID 签名和公证。请确认安装包来自本仓库 Release，并核对 SHA-256 后再打开。
+0.2.2 尚未完成 Apple Developer ID 签名和公证。请确认安装包来自本仓库 Release，并核对 SHA-256 后再打开。
 
 ## 支持哪些文章文件？
 

@@ -1,14 +1,14 @@
 # 下载与安装
 
-## 版本 0.2.1
+## 版本 0.2.2
 
-安装包将在 [v0.2.1 Release](https://github.com/olikahn11/xiaohuang-wechat-assistant-public/releases/tag/v0.2.1) 中提供：
+安装包将在 [v0.2.2 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.2.2) 中提供：
 
-- Mac：`Xiaohuang-WeChat-Assistant-macOS-0.2.1.dmg`
-- Mac 备用压缩包：`Xiaohuang-WeChat-Assistant-macOS-0.2.1.zip`
-- Windows：`Xiaohuang-WeChat-Assistant-Windows-0.2.1.exe`
-- Windows 备用压缩包：`Xiaohuang-WeChat-Assistant-Windows-0.2.1.zip`
-- 文件校验：`SHA256SUMS-0.2.1.txt`
+- Mac：`Xiaohuang-WeChat-Assistant-macOS-0.2.2.dmg`
+- Mac 备用压缩包：`Xiaohuang-WeChat-Assistant-macOS-0.2.2.zip`
+- Windows：`Xiaohuang-WeChat-Assistant-Windows-0.2.2.exe`
+- Windows 备用压缩包：`Xiaohuang-WeChat-Assistant-Windows-0.2.2.zip`
+- 文件校验：`SHA256SUMS-0.2.2.txt`
 
 ## Mac 安装
 
@@ -25,5 +25,5 @@
 ## 安全提示
 
 - 只从本仓库 Release 页面或“拾用集”公众号公布的入口下载。
-- 安装前可使用 `SHA256SUMS-0.2.1.txt` 校验文件。
+- 安装前可使用 `SHA256SUMS-0.2.2.txt` 校验文件。
 - 不要向任何人发送公众号 AppSecret、token 或验证码。
