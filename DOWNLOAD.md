@@ -1,19 +1,19 @@
 # 下载与安装
 
-## 当前版本：Mac、Windows 0.3.2（2026-09-22）
+## 当前版本：Mac、Windows 0.3.5（2026-09-24）
 
 两个下载地址的安装包完全一样：
 
 - 国内下载（推荐）：<https://wx.xiaohuang365.com/download/>
-- GitHub：[v0.3.2 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.3.2)
+- GitHub：[v0.3.5 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.3.5)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里；国内下载页只放最新版）
 
 文件：
 
-- Mac 安装包：`Xiaohuang-Content-Assistant-macOS-0.3.2.dmg`（需要 macOS 14 或更新版本）
-- Mac 备用压缩包：`Xiaohuang-Content-Assistant-macOS-0.3.2.zip`
-- Windows 安装程序：`Xiaohuang-Content-Assistant-Windows-0.3.2-Setup.exe`（需要 Windows 10 或 11，64 位）
-- Windows 免安装压缩包：`Xiaohuang-Content-Assistant-Windows-0.3.2.zip`
-- 文件校验：`SHA256SUMS-0.3.2.txt`
+- Mac 安装包：`Xiaohuang-Content-Assistant-macOS-0.3.5.dmg`（需要 macOS 14 或更新版本）
+- Mac 备用压缩包：`Xiaohuang-Content-Assistant-macOS-0.3.5.zip`
+- Windows 安装程序：`Xiaohuang-Content-Assistant-Windows-0.3.5-Setup.exe`（需要 Windows 10 或 11，64 位；Windows 7、8 和 32 位系统装不了，安装时会提示）
+- Windows 免安装压缩包：`Xiaohuang-Content-Assistant-Windows-0.3.5.zip`
+- 文件校验：`SHA256SUMS-0.3.5.txt`
 
 ## Mac 安装
 
@@ -48,5 +48,5 @@ Windows 这一版能写文章、套模板、插模块和挂件、导入 Word / P
 
 - 只从本仓库 Release 页面、上面的国内下载地址，或「拾用集」公众号给的入口下载。
 - 安装前可以核对文件：Mac 在「终端」里运行 `shasum -a 256 下载的文件`，Windows 在 PowerShell 里运行 `Get-FileHash 下载的文件`，
-  结果应和 `SHA256SUMS-0.3.2.txt` 里的一致（Windows 显示的是大写字母，大小写不同没关系）。
+  结果应和 `SHA256SUMS-0.3.5.txt` 里的一致（Windows 显示的是大写字母，大小写不同没关系）。
 - 不要向任何人发送公众号的登录密码、开发者密码（AppSecret）或验证码。
