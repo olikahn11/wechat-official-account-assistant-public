@@ -33,10 +33,10 @@
 
 ## 下载
 
-当前版本：Mac、Windows `0.3.5`（2026-09-24）
+当前版本：Mac、Windows `0.3.6`（2026-09-25）
 
 - 国内下载（推荐）：<https://wx.xiaohuang365.com/download/>
-- GitHub：[v0.3.5 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.3.5)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里）
+- GitHub：[v0.3.6 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.3.6)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里）
 
 两个地址的安装包完全一样。需要在 Windows 上直接连接公众号的，可以先继续用旧版 [Windows 0.2.1](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.2.1)（旧版叫「小黄公众号助手」，只支持填写开发者接口连接），新旧两个版本互不影响。
 

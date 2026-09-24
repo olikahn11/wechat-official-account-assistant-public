@@ -36,7 +36,7 @@ Windows 新版这一版还不连接公众号，不保存任何公众号凭据。
 
 ## Windows 版能连接公众号吗？
 
-新版 Windows（0.3.5）还不能：写好的文章在发布页点「复制正文」「复制发布字段」，到公众号后台新建文章粘贴，再预览、群发。
+新版 Windows（0.3.6）还不能：写好的文章在发布页点「复制正文」「复制发布字段」，到公众号后台新建文章粘贴，再预览、群发。
 扫码连接公众号、一键存进草稿箱正在开发，用法会和 Mac 版一样。
 现在就需要在 Windows 上直接连接公众号的，可以先继续用旧版 [Windows 0.2.1](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.2.1)（只支持填写开发者接口连接）。
 
