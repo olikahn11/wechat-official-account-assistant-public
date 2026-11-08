@@ -12,16 +12,21 @@
 - 搜索听得懂意思：写「学校国庆放假通知」「奶茶店开业」「招人」都能找到合适的素材，每条结果写着为什么出现。
 - 「我的素材」：自己存的、别处复制来的、整个文件夹导入的模板、模块和挂件，都能分类收好，点一下插进文章。
 - 新素材由服务器下发，软件打开时自动更新，不用重装（Mac、Windows 都是）。
-- 按块编辑：正文、小标题、引用、列表、表格、图片、排版模块、装饰挂件、HTML 自由块，每一块都能单独调样式。
-- 扫码连接公众号（Mac 版）：走微信官方第三方平台授权，由公众号管理员扫码确认，不需要填写公众号的开发者密码。
-- 发布前检查封面、摘要和公众号兼容性，再保存到公众号草稿箱（Mac 版）；没连公众号时，一键复制排好版的正文和发布字段，到公众号后台粘贴。
-- Windows 版：编辑排版功能和 Mac 版一样，在各种屏幕上自动调整界面大小；还不能连接公众号，写好后复制到公众号后台粘贴发布，扫码连接、存进草稿箱正在开发。
+- 像写文档一样编辑：点空白处就能写，插入落在光标处，粘贴多段自动分段；正文、小标题、引用、列表、表格、图片、排版模块、装饰挂件、HTML 自由块都能单独调样式。
+- 图片选中后拖四个角就能等比放大缩小，手机预览和发到公众号的宽度一样。
+- 鼠标停在按钮上会说明这个按钮做什么、怎么用。
+- 「一键整理」（专业版）：把格式乱的稿子整理好；「AI 配图」「AI 写作辅助」用你自己的密钥（需要含高级功能的激活码）。
+- 扫码连接公众号（Mac、Windows）：走微信官方第三方平台授权，由公众号管理员扫码确认，不需要填写公众号的开发者密码。
+- 发布前检查封面、摘要和公众号兼容性，再保存到公众号草稿箱（Mac、Windows）；没连公众号时，一键复制排好版的正文和发布字段，到公众号后台粘贴。
+- Windows 版：功能和 Mac 版一样，也能扫码连接公众号、存进草稿箱；在各种屏幕上自动调整界面大小。
 
 ## 界面
 
 ![编辑界面：左边填发布信息，中间写正文，右边是手机上的效果](screenshots/editor-window.jpg)
 
-![样式面板：搜索读书会报名，鼠标停在样式上旁边显示效果](screenshots/style-panel.jpg)
+![样式面板：鼠标停在样式上，旁边显示效果](screenshots/style-panel.jpg)
+
+![图片拖四个角等比缩放，右边手机预览同步变化](screenshots/image-resize.jpg)
 
 截图是 Windows 版（和 Mac 版同一套界面），里面是虚构的示例文章。
 
@@ -33,10 +38,10 @@
 
 ## 下载
 
-当前版本：Mac、Windows `0.3.11`（2026-11-07）
+当前版本：Mac、Windows `0.4.0`（2026-11-09）
 
 - 国内下载（推荐）：<https://wx.xiaohuang365.com/download/>
-- GitHub：[v0.3.11 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.3.11)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里）
+- GitHub：[v0.4.0 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.4.0)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里）
 
 两个地址的安装包完全一样。Windows 版从 0.3.8 起也能扫码连接公众号、一键存进草稿箱。旧版 [Windows 0.2.1](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.2.1)（旧版叫「小黄公众号助手」）只支持填写开发者接口连接，新旧两个版本互不影响。
 
