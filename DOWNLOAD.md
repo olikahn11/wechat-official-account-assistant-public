@@ -1,19 +1,19 @@
 # 下载与安装
 
-## 当前版本：Mac、Windows 0.4.2（2026-11-09）
+## 当前版本：Mac、Windows 0.4.3（2026-11-09）
 
 两个下载地址的安装包完全一样：
 
 - 国内下载（推荐）：<https://wx.xiaohuang365.com/download/>
-- GitHub：[v0.4.2 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.4.2)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里；国内下载页只放最新版）
+- GitHub：[v0.4.3 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.4.3)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里；国内下载页只放最新版）
 
 文件：
 
-- Mac 安装包：`Xiaohuang-Content-Assistant-macOS-0.4.2.dmg`（需要 macOS 14 或更新版本）
-- Mac 备用压缩包：`Xiaohuang-Content-Assistant-macOS-0.4.2.zip`
-- Windows 安装程序：`Xiaohuang-Content-Assistant-Windows-0.4.2-Setup.exe`（需要 Windows 10 或 11，64 位；Windows 7、8 和 32 位系统装不了，安装时会提示）
-- Windows 免安装压缩包：`Xiaohuang-Content-Assistant-Windows-0.4.2.zip`
-- 文件校验：`SHA256SUMS-0.4.2.txt`
+- Mac 安装包：`Xiaohuang-Content-Assistant-macOS-0.4.3.dmg`（需要 macOS 14 或更新版本）
+- Mac 备用压缩包：`Xiaohuang-Content-Assistant-macOS-0.4.3.zip`
+- Windows 安装程序：`Xiaohuang-Content-Assistant-Windows-0.4.3-Setup.exe`（需要 Windows 10 或 11，64 位；Windows 7、8 和 32 位系统装不了，安装时会提示）
+- Windows 免安装压缩包：`Xiaohuang-Content-Assistant-Windows-0.4.3.zip`
+- 文件校验：`SHA256SUMS-0.4.3.txt`
 - 用户协议：[查看](https://xiaohuang365.com/software/wechat/terms.html)
 
 ## Mac 安装
@@ -38,16 +38,16 @@
 
 免安装压缩包：解压后双击里面的「小黄内容助手.exe」。
 
-Windows 这一版能写文章、套模板、插模块和挂件、导入 Word / PDF，写好后一键复制排好版的正文和发布字段，
-到公众号后台粘贴发布。扫码连接公众号、一键存进草稿箱在下一个版本加上。
+Windows 版能写文章、套模板、插模块和挂件、导入 Word / PDF，也能由公众号管理员扫码连接后保存到公众号草稿箱。
+未连接公众号时，可复制排好版的正文和发布字段，到公众号后台粘贴；最终预览、群发或发表均在公众号后台完成。
 
 以前装过旧版「小黄公众号助手」（Windows 0.2.1）的：新版装在另一个位置，两个互不影响，旧版里的文章不会自动带过来。
-需要在 Windows 上直接连接公众号的，可以先继续用旧版 [Windows 0.2.1](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.2.1)
-（`Xiaohuang-WeChat-Assistant-Windows-0.2.1.exe`，只支持填写开发者接口连接）。
+旧版 [Windows 0.2.1](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.2.1)
+仅保留历史下载（`Xiaohuang-WeChat-Assistant-Windows-0.2.1.exe`，只支持填写开发者接口连接）。
 
 ## 安全提示
 
 - 只从本仓库 Release 页面、上面的国内下载地址，或「拾用集」公众号给的入口下载。
 - 安装前可以核对文件：Mac 在「终端」里运行 `shasum -a 256 下载的文件`，Windows 在 PowerShell 里运行 `Get-FileHash 下载的文件`，
-  结果应和 `SHA256SUMS-0.4.2.txt` 里的一致（Windows 显示的是大写字母，大小写不同没关系）。
+  结果应和 `SHA256SUMS-0.4.3.txt` 里的一致（Windows 显示的是大写字母，大小写不同没关系）。
 - 不要向任何人发送公众号的登录密码、开发者密码（AppSecret）或验证码。

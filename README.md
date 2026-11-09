@@ -38,10 +38,10 @@
 
 ## 下载
 
-当前版本：Mac、Windows `0.4.2`（2026-11-09）
+当前版本：Mac、Windows `0.4.3`（2026-11-09）
 
 - 国内下载（推荐）：<https://wx.xiaohuang365.com/download/>
-- GitHub：[v0.4.2 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.4.2)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里）
+- GitHub：[v0.4.3 Release](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.4.3)（历史版本都在 [Releases](https://github.com/olikahn11/wechat-official-account-assistant-public/releases) 里）
 
 两个地址的安装包完全一样。Windows 版从 0.3.8 起也能扫码连接公众号、一键存进草稿箱。旧版 [Windows 0.2.1](https://github.com/olikahn11/wechat-official-account-assistant-public/releases/tag/v0.2.1)（旧版叫「小黄公众号助手」）只支持填写开发者接口连接，新旧两个版本互不影响。
 
@@ -56,7 +56,7 @@
 5. 扫码连接公众号（第一次需要公众号管理员扫码）。
 6. 运行发布前检查，保存到公众号草稿箱，再到公众号后台预览、群发。
 
-Windows 版这一版还不能连接公众号：第 5、6 步改成在发布页点「复制正文」「复制发布字段」，到公众号后台新建文章粘贴，再预览、群发。
+Mac 和 Windows 都支持上述扫码连接及保存草稿流程；未连接公众号时，可在发布页点「复制正文」「复制发布字段」，到公众号后台新建文章粘贴，再预览、群发。
 
 ## 文档
 
